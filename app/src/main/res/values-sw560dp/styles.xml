@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <dimen name="txt2">21dp</dimen>
+    <dimen name="txtsub">16dp</dimen>
+    <dimen name="txtsub2">14dp</dimen>
+
+    <dimen name="txt_buttons">16dp</dimen>
+    <dimen name="txt_Headings_all_layout">25dp</dimen>
+
+    <dimen name="listtxt">10dp</dimen>
+    <dimen name="listimgwidth">100dp</dimen>
+    <dimen name="listimgheight">60dp</dimen>
+    <dimen name="listtxtmarginbottom">13dp</dimen>
+
+    <dimen name ="grid_height">86dp</dimen>
+    <dimen name ="grid_width">145dp</dimen>
+
+    <dimen name ="fish_grid_height">99dp</dimen>
+    <dimen name ="fish_grid_width">110dp</dimen>
+
+    <dimen name="gridview">30dp</dimen>
+
+    <dimen name ="dimmerset_Savebtn">20dp</dimen>
+</resources>
